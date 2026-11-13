@@ -2,7 +2,7 @@ function Footer() {
   return (
     <footer className="bg-[#18181B] px-4 py-5 text-center text-sm text-gray-400">
       <p>
-        Developed by{" "}
+        Developed by
         <span className="font-semibold text-white">Aarohi Modi</span>
       </p>
 
